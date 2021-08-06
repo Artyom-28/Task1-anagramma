@@ -1,0 +1,13 @@
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.exe
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.deps.json
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.runtimeconfig.json
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.runtimeconfig.dev.json
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.dll
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\bin\Debug\netcoreapp3.1\ConsoleApp_Anagramma.pdb
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.csprojAssemblyReference.cache
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.AssemblyInfoInputs.cache
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.AssemblyInfo.cs
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.csproj.CoreCompileInputs.cache
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.dll
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.pdb
+C:\FoxMinded\Task1-anagramma\ConsoleApp_Anagramma\obj\Debug\netcoreapp3.1\ConsoleApp_Anagramma.genruntimeconfig.cache
